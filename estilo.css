@@ -45,12 +45,6 @@ h1, h4{
     float: center;
 }
 
-.container1{
-    width: 100%;
-    margin: 0 auto;
-    padding: 0;
-    
-}
 
 .logo{
     height: 50px;
@@ -169,7 +163,7 @@ background-color:rgb(2, 5, 136) ;
 
 }
 
-.section, .container, .card{
+.section, .card{
     width: 100%;
     justify-content: flex-start;
     flex-wrap: wrap;
