@@ -45,7 +45,7 @@ h1, h4{
     float: center;
 }
 
-.container{
+.container1{
     width: 100%;
     margin: 0 auto;
     padding: 0;
@@ -189,3 +189,16 @@ background-color:rgb(2, 5, 136) ;
 .texto{
     padding: 1%;
 }
+
+/* Contato */
+
+row-m {
+    margin: 0 !important;
+}
+
+.form-contato-area {
+    padding-top: 70px;
+}
+
+.mapa-area {
+    padding-top: 50px;
